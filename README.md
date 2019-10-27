@@ -1,14 +1,14 @@
 # k-means
-trabalho prático de tópicos especiais
+Trabalho prático de tópicos especiais
 # Agrupar produtos e seus consumidores
 A ideia seria obter grupos de produtos e seus tipos de consumidores para conseguir extrair um nixo de clientes e relizar um market direcionado as estes consumidores.
 # Critério de sucesso
-
+  Repetir o calculo dos centróides até que else não sejam mais modificados.
 # Agrupamento
+Nesse caso agrupar os dados permite tomar decisões especificas para cada perfil (cluster), além de conseguir encontrar grupos que não eram visiveis.
 
-Qual o número escolhido e porquê? Como você estimou esse número?
-
-Esse número faz sentido para o seu projeto? 
+# Numero de clusters
+O algoritmo foi executado algumas vez com numero de clusters diferentes até que houvese uma diferença maior entre os clusters, pois nesse modelo de dados é interessante perceber clusters mais diversos para poder usar as informações para cada caso. No fim chagamos ao valor de 5 clusters.
 
 # Os parâmetros do método de clusterização
 

@@ -5,4 +5,13 @@ A ideia seria obter grupos de produtos e seus tipos de consumidores para consegu
 # Critério de sucesso
 
 # Agrupamento
-Agrupamento 
+
+Qual o número escolhido e porquê? Como você estimou esse número?
+
+Esse número faz sentido para o seu projeto? 
+
+#Os parâmetros do método de clusterização
+
+O agrupamento foi efetivo para solucionar o problema? Como você avaliou os resultados (Colocar as métricas)?
+
+#Conclusões e resultados

@@ -10,8 +10,8 @@ Qual o número escolhido e porquê? Como você estimou esse número?
 
 Esse número faz sentido para o seu projeto? 
 
-#Os parâmetros do método de clusterização
+# Os parâmetros do método de clusterização
 
 O agrupamento foi efetivo para solucionar o problema? Como você avaliou os resultados (Colocar as métricas)?
 
-#Conclusões e resultados
+# Conclusões e resultados

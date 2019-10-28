@@ -15,10 +15,12 @@ Os parâmetros de 5 clusterização, implicam diretamente nos resultados, se o n
 
 # Avaliação dos resultados
 ![Gráfico](https://github.com/mauriliosfc/k-means/blob/master/km1)
-* Item 1
-* Item 2
-* Item 3
 
+* cluster 0 - clientes que gastão pouco com cada tipo de produto.
+* cluster 1 - clientes que não gastão tanto, mas tem compram mais Leite e produtos de mercearia.
+* cluster 2 - clientes que gastão mais porém com foco em produtos frescos.
+* cluster 3 - clientes que não gastão tanto mais também com foco em produtos frescos.
+* cluster 4 - clientes que com gasto eleva e mais diversificado.
 
 # Conclusões e resultados
 Como vimos no gráfico acima, o que o algoritmo fez  foi identificar clientes com comportamentos similares. Desta maneira, é possível fazer uma ação especial com os clientes que gastam mais com determinados alimentos.

@@ -13,7 +13,8 @@ O algoritmo foi executado algumas vez com numero de clusters diferentes até que
 # Os parâmetros do método de clusterização
 Os parâmetros de 5 clusterização, implicam diretamente nos resultados, se o numero for muito baixo podemos ter pouco conjuntos que não serão específicos e não representaram de forma correta um determinado nicho, porem se o numero for alto as diferenças entre clusters se tornam muito pequenas. Então é preciso achar um equilíbrio em que as observações que formam cada agrupamento sejam o mais homogêneas possível e que os agrupamentos formados sejam o mais diferentes um dos outros.
 
-# O agrupamento foi efetivo para solucionar o problema? Como você avaliou os resultados (Colocar as métricas)?
+# Avaliação dos resultados
 ![Gráfico](https://github.com/mauriliosfc/k-means/blob/master/km1)
 
 # Conclusões e resultados
+Como vimos no gráfico acima, o que o algoritmo fez  foi identificar clientes com comportamentos similares. Desta maneira, é possível fazer uma ação especial com os clientes que gastam mais com determinados alimentos.

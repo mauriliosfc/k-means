@@ -15,6 +15,10 @@ Os parâmetros de 5 clusterização, implicam diretamente nos resultados, se o n
 
 # Avaliação dos resultados
 ![Gráfico](https://github.com/mauriliosfc/k-means/blob/master/km1)
+* Item 1
+* Item 2
+* Item 3
+
 
 # Conclusões e resultados
 Como vimos no gráfico acima, o que o algoritmo fez  foi identificar clientes com comportamentos similares. Desta maneira, é possível fazer uma ação especial com os clientes que gastam mais com determinados alimentos.

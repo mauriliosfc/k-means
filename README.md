@@ -23,4 +23,4 @@ Os parâmetros de 5 clusterização, implicam diretamente nos resultados, se o n
 * cluster 4 - clientes que com gasto eleva e mais diversificado.
 
 # Conclusões e resultados
-Como vimos no gráfico acima, o que o algoritmo fez  foi identificar clientes com comportamentos similares. Desta maneira, é possível fazer uma ação especial com os clientes que gastam mais com determinados alimentos.
+Como vimos no gráfico acima, o que o algoritmo fez  foi identificar clientes com comportamentos similares. Desta maneira, é possível fazer uma ação especial com os clientes que tenham um determindado comportamento.
